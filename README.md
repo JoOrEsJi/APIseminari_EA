@@ -1,3 +1,6 @@
+
+Referències utilitzades: Claude, https://www.geeksforgeeks.org/express-js/
+
 # Prova API
 
 ## Descripció
